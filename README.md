@@ -5,6 +5,10 @@ Its always interesting to learn something new.Especially something that is revol
 
 [MESCEFABLAB](https://github.com/NASMALFARHAN/NASMALFARHAN.github.io/edit/master/README.md) is one of the 20 mini fablab in Kerala where the students have the oppurtunity to explore FAB world.
 
+Recently, our college was selected among 20 others in kerala where a fabrication lab (FABLAB) was to be setup. It gives me great pleasure to document and share my FABLAB experiences with you using this platform.
+
+
+
 
 
 ### ABOUT ME
