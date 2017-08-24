@@ -3,7 +3,7 @@
 Its always interesting to learn something new.Especially something that is revolutionary and has a promising future. The crash course in FABLAB would guide anyone into fascinating world of creativity.
 
 
-[MESCEFABLAB](https://github.com/NASMALFARHAN/NASMALFARHAN.github.io/edit/master/README.md) is one of the 20 mini fablab in Kerala where the students have the oppurtunity to explore FAB world.
+[MESCEFABLAB](https://docs.google.com/document/d/1b-YPkYcUt2vW6vKYC2uOcPnP9tg9tztMz-GHH8raJTU/edit) is one of the 20 mini fablab in Kerala where the students have the oppurtunity to explore FAB world.
 
 Recently, our college was selected among 20 others in kerala where a fabrication lab (FABLAB) was to be setup. It gives me great pleasure to document and share my FABLAB experiences with you using this platform.
 
@@ -13,11 +13,12 @@ Recently, our college was selected among 20 others in kerala where a fabrication
 
 ### ABOUT ME
 
-Myself [Nasmal farhan P A](https://github.com/NASMALFARHAN/NASMALFARHAN.github.io/edit/master/README.md). Iam currently pursuing my final year B.Tech in Mechanical Engineering from MES College of Engineering.
+Myself Nasmal farhan P A. Iam currently pursuing my final year B.Tech in Mechanical Engineering from MES College of Engineering.
 
 I am a dedicated person with a family of five. I enjoy reading, and the knowledge and perspective that my reading gives me has strengthened my teaching skills and presentation abilities. I have been successful at raising a family, and I attribute this success to my ability to plan, schedule, and handle many different tasks at once. This flexibility will help me in the classroom, where there are many different personalities and learning styles
 
 Use this links to take me:facebook [here](https://www.facebook.com/nasmalfarhan)
+                         :fab lab [here](https://nasmalfarhan.github.io)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
