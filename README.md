@@ -1,6 +1,6 @@
 ## MY FAB LAB DAIRIES
 
-You can use the [editor on GitHub](https://github.com/NASMALFARHAN/NASMALFARHAN.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+its always interesting to learn something new.Especially something that is revolutionary and has a promising future. The crash course in FABLAB would guide anyone into fascinating world of creativity.You can use the [editor on GitHub](https://github.com/NASMALFARHAN/NASMALFARHAN.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
