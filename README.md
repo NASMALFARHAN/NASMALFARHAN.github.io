@@ -1,6 +1,3 @@
-#MY SKILLS
-
-
 ## MY FAB LAB DAIRIES
 
 its always interesting to learn something new.Especially something that is revolutionary and has a promising future. The crash course in FABLAB would guide anyone into fascinating world of creativity.
