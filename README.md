@@ -1,3 +1,6 @@
+#MY SKILLS
+
+
 ## MY FAB LAB DAIRIES
 
 its always interesting to learn something new.Especially something that is revolutionary and has a promising future. The crash course in FABLAB would guide anyone into fascinating world of creativity.
@@ -5,7 +8,7 @@ its always interesting to learn something new.Especially something that is revol
 
 [MESCEFABLAB](https://github.com/NASMALFARHAN/NASMALFARHAN.github.io/edit/master/README.md) is one of the 20 mini fablab in Kerala where the students have the oppurtunity to explore FAB world.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
