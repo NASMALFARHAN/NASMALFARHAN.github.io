@@ -23,10 +23,9 @@ Recently, our college was selected among 20 others in kerala where a fabrication
 
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+details to get in contact with me
 
 # Header 1
 ## Header 2
