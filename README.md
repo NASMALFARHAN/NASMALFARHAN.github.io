@@ -15,6 +15,8 @@ Recently, our college was selected among 20 others in kerala where a fabrication
 
 Myself [Nasmal farhan P A](https://github.com/NASMALFARHAN/NASMALFARHAN.github.io/edit/master/README.md). Iam currently pursuing my final year B.Tech in Mechanical Engineering from MES College of Engineering.
 
+I am a dedicated person with a family of five. I enjoy reading, and the knowledge and perspective that my reading gives me has strengthened my teaching skills and presentation abilities. I have been successful at raising a family, and I attribute this success to my ability to plan, schedule, and handle many different tasks at once. This flexibility will help me in the classroom, where there are many different personalities and learning styles
+
 Use this links to take me:facebook [here](https://www.facebook.com/nasmalfarhan)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
