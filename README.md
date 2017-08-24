@@ -1,4 +1,4 @@
-## MY FAB LAB DAIRIES
++## MY FAB LAB DAIRIES
 
 Its always interesting to learn something new.Especially something that is revolutionary and has a promising future. The crash course in FABLAB would guide anyone into fascinating world of creativity.
 
@@ -14,7 +14,7 @@ Recently, our college was selected among 20 others in kerala where a fabrication
 
 
 
-### ABOUT ME
++### ABOUT ME
 
 Myself Nasmal farhan P A. Iam currently pursuing my final year B.Tech in Mechanical Engineering from MES College of Engineering.
 
