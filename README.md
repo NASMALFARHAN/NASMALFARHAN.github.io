@@ -6,7 +6,7 @@ Its always interesting to learn something new.Especially something that is revol
 MESCE Fab Lab is one of the 20 mini fablab in Kerala where the students have the oppurtunity to explore FAB world.
 
 
-use this like to take MESCE Fab Lab:[**`here`**](https://docs.google.com/document/d/1b-YPkYcUt2vW6vKYC2uOcPnP9tg9tztMz-GHH8raJTU/edit)
+use this link to take MESCE Fab Lab:[**`here`**](https://docs.google.com/document/d/1b-YPkYcUt2vW6vKYC2uOcPnP9tg9tztMz-GHH8raJTU/edit)
 
 Recently, our college was selected among 20 others in kerala where a fabrication lab (FABLAB) was to be setup. It gives me great pleasure to document and share my FABLAB experiences with you using this platform.
 
