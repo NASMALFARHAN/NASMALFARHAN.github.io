@@ -9,7 +9,7 @@ Its always interesting to learn something new.Especially something that is revol
 
 ### ABOUT ME
 
-Myself Nasmal farhan P A. Iam currently pursuing my final year B.Tech in Mechanical Engineering from MES College of Engineering.
+Myself [Nasmal farhan P A](https://github.com/NASMALFARHAN/NASMALFARHAN.github.io/edit/master/README.md). Iam currently pursuing my final year B.Tech in Mechanical Engineering from MES College of Engineering.
 
 Use this links to take me:facebook [here](https://www.facebook.com/nasmalfarhan)
 
