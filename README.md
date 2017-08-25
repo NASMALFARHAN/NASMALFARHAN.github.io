@@ -39,9 +39,23 @@ use this link to take MESCE Fab Lab:[**`here`**](https://docs.google.com/documen
 
 Recently, our college was selected among 20 others in kerala where a fabrication lab (FABLAB) was to be setup. It gives me great pleasure to document and share my FABLAB experiences with you using this platform.
 
-### Jekyll Themes
++ + ### DAY ONE (GLIMPSES OF REALISATION)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NASMALFARHAN/NASMALFARHAN.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Our trainer Mr.Jaseel was successful in explaining the main theme of the entire programme.He made as aware about the future scopes of FAB and was able to convince as how the same can influence the future world.
+
+### fablab
+To put it very simply, fab lab is a mini factory of sorts where anyone can work on an idea and build a prototype, which would then help to figure out potential market for the product.It has wide variety of machines to make thing possible as we wish.Anything can be rebuild with a short span without much complicated manufacturing procedures.
+
+```markdown
+   1. Precision cutter
+   2. Carving machine
+   3. Drillers
+   4. Laser cutter
+   5. Milling machines
+   6. 3D printers 
+   7. Moulding machines
+   8. Mini furnaces
+   ```
 
 ### Support or Contact
 
