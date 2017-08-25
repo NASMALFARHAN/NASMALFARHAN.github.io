@@ -8,9 +8,6 @@ Use this links to take me:facebook [**`here`**](https://www.facebook.com/nasmalf
 
 
 use this like to teke me:fab lab [**`here`**](https://nasmalfarhan.github.io)
-+ ## MY FAB LAB DOCUMENTATION
-
-![fab](https://asd.sutd.edu.sg/files/fablab-digital4.jpg "lab")
 
 ```markdown
 Details to get in contact with me
@@ -25,7 +22,9 @@ Details to get in contact with me
 
 For more details see [NASMALFARHAN.github.io](https://nasmalfarhan.github.io).
 
++ ## MY FAB LAB DOCUMENTATION
 
+![fab](https://asd.sutd.edu.sg/files/fablab-digital4.jpg "lab")
 
 
   + + ### MY FAB LAB DAIRIES
