@@ -32,25 +32,15 @@ Recently, our college was selected among 20 others in kerala where a fabrication
 ```markdown
 Details to get in contact with me
 
-Email id     : nasmalfarhan@gmail.com
-Facebook id  : nasmalfarhan
-Instagram id : nasmalfarhan
-Whatsup no   : 8891237843
-Mobile no    : 7012091118
+- Email id     : nasmalfarhan@gmail.com
+- Facebook id  : nasmalfarhan
+- Instagram id : nasmalfarhan
+- Whatsup no   : 8891237843
+- Mobile no    : 7012091118
 
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image]( )
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [NASMALFARHAN.github.io](https://nasmalfarhan.github.io).
 
 ### Jekyll Themes
 
