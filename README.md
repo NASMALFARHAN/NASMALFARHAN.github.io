@@ -30,7 +30,7 @@ Recently, our college was selected among 20 others in kerala where a fabrication
 
 
 ```markdown
-**Details to get in contact with me**
+Details to get in contact with me
 
 Email id     : nasmalfarhan@gmail.com
 Facebook id  : nasmalfarhan
