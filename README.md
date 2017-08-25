@@ -12,6 +12,20 @@ use this like to teke me:fab lab [**`here`**](https://nasmalfarhan.github.io)
 
 ![fab](https://asd.sutd.edu.sg/files/fablab-digital4.jpg "lab")
 
+```markdown
+Details to get in contact with me
+
+- Email id     : nasmalfarhan@gmail.com
+- Facebook id  : nasmalfarhan
+- Instagram id : nasmalfarhan
+- Whatsup no   : 8891237843
+- Mobile no    : 7012091118
+
+```
+
+For more details see [NASMALFARHAN.github.io](https://nasmalfarhan.github.io).
+
+
 
 
   + + ### MY FAB LAB DAIRIES
@@ -25,22 +39,6 @@ MESCE Fab Lab is one of the 20 mini fablab in Kerala where the students have the
 use this link to take MESCE Fab Lab:[**`here`**](https://docs.google.com/document/d/1b-YPkYcUt2vW6vKYC2uOcPnP9tg9tztMz-GHH8raJTU/edit)
 
 Recently, our college was selected among 20 others in kerala where a fabrication lab (FABLAB) was to be setup. It gives me great pleasure to document and share my FABLAB experiences with you using this platform.
-
-
-
-
-```markdown
-Details to get in contact with me
-
-- Email id     : nasmalfarhan@gmail.com
-- Facebook id  : nasmalfarhan
-- Instagram id : nasmalfarhan
-- Whatsup no   : 8891237843
-- Mobile no    : 7012091118
-
-```
-
-For more details see [NASMALFARHAN.github.io](https://nasmalfarhan.github.io).
 
 ### Jekyll Themes
 
