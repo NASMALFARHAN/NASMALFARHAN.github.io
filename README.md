@@ -15,8 +15,8 @@ Details to get in contact with me
 - Email id     : nasmalfarhan@gmail.com
 - Facebook id  : nasmalfarhan
 - Instagram id : nasmalfarhan
-- Whatsup no   : 8891237843
-- Mobile no    : 7012091118
+- Whatsup no   : +91 8891237843
+- Mobile no    : +91 7012091118
 
 ```
 
