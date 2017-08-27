@@ -143,26 +143,32 @@ Eagle Software ascertains itself as a paramount institution in provid ing softwa
 
 ### CURA
 Cura creates a seamless integration between hardware, software and mate rials for the best 3D printing experience around. Novices can start printing right away and experts are able to customize 200 settings to achieve the best results for their models Optimized profiles for Ultimaker materials Supported by a global network of Ultimaker certified service partners Print multiple objects at once with different settings for each object Cura supports STL, 3MF and OBJ file formats It’s open source and completely free Optimized for dual extrusion printing with Ultimaker 3 
+
 **Download CURA**
 :[**`here`**](http://en.freedownloadmanager.org/Windows-PC/Cura-FREE.html)
 
 ### AUTOCAD
 AutoCAD is a commercial computer-aided design (CAD) and drafting software application. Developed and marketed by Autodesk,[1] AutoCAD was first rel eased in December 1982 as a desktop app running on microcomputers with in ternal graphics controllers.[2] Prior to the introduction of AutoCAD, most commercial CAD programs ran on mainframe computers or minicomputers, with each CAD operator (user) working at a separate graphics terminal.[3] Since 2010, AutoCAD was released as a mobile- and web app as well, marketed as AutoCAD 360. 
+
 **Download Autocad**
 :[**`here`**](https://www.autodesk.in/products/autocad/free-trial)
 
 ### SOLIDWORKS
 SOLIDWORKS solutions cover all aspects of your product development process with a seamless, integrated workflow—design, verification, sustainable des ign, communication and data management. The intuitive design interface and integrated software work together and give you the freedom to focus on inn ovation, thus giving you the possibility to span multiple disciplines with ease. 
+
 **Download SOLIDWORKS**
 :[**`here`**](http://www.solidworks.in/sw/support/downloads.htm)
 
 ### RHINOCEROS
 Rhinoceros, also known as Rhino or Rhino3D, is a 3D CAD modeling software package that enables you to accurately model your designs ready for rende ring, animation, drafting, engineering, analysis, and manufacturing. Rhino is a free-form NURBS surface modeler. With Rhino, you can create, edit, an alyze, and translate NURBS curves, surfaces, and solids in Windows or Mac environments. There are no limitations on complexity, degree, or size of the model you design. 
+
 **Download RHINOCEROS**
 :[**`here`**](https://www.rhino3d.com/download)
 
 ### CUTSTUDIO
-Easy Cut Studio is the industry’s premiere sign making and vinyl cutting sof tware for Windows that allows you to cut any TrueType font, any SVG image a nd any design you want using an electronic cutting machine ( vinyl cutter a nd cutting plotter). Works with your installed TrueType and OpenType, and Di ngbat/Wingding fonts. This viny cutting software can import various file fo rmats but also provides a full set of drawing and editing tools to create yo ur own designs for cutting. **Download CUTSTUDIO**
+Easy Cut Studio is the industry’s premiere sign making and vinyl cutting sof tware for Windows that allows you to cut any TrueType font, any SVG image a nd any design you want using an electronic cutting machine ( vinyl cutter a nd cutting plotter). Works with your installed TrueType and OpenType, and Di ngbat/Wingding fonts. This viny cutting software can import various file fo rmats but also provides a full set of drawing and editing tools to create yo ur own designs for cutting. 
+
+**Download CUTSTUDIO**
 :[**`here`**](http://filehippo.com/download_easy-cut-studio/)
 
 
