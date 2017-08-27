@@ -22,6 +22,7 @@ Details to get in contact with me
 
 For more details see [NASMALFARHAN.github.io](https://nasmalfarhan.github.io).
 
+
 + ## MY FAB LAB DOCUMENTATION
 
 ![fab](https://asd.sutd.edu.sg/files/fablab-digital4.jpg "lab")
@@ -38,6 +39,9 @@ MESCE Fab Lab is one of the 20 mini fablab in Kerala where the students have the
 use this link to take MESCE Fab Lab:[**`here`**](https://docs.google.com/document/d/1b-YPkYcUt2vW6vKYC2uOcPnP9tg9tztMz-GHH8raJTU/edit)
 
 Recently, our college was selected among 20 others in kerala where a fabrication lab (FABLAB) was to be setup. It gives me great pleasure to document and share my FABLAB experiences with you using this platform.
+
+
+
 
 + + ## DAY ONE (GLIMPSES OF REALISATION)
 
@@ -187,6 +191,8 @@ Easy Cut Studio is the industry’s premiere sign making and vinyl cutting sof t
 :[**`here`**](http://filehippo.com/download_easy-cut-studio/)
 
 
+**FOR MARKDOWN CHEATS**
+[**`here`**](https://docs.google.com/document/d/1b-YPkYcUt2vW6vKYC2uOcPnP9tg9tztMz-GHH8raJTU/edit)
 
 ### Support or Contact
 
