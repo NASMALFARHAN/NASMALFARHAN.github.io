@@ -60,12 +60,14 @@ To put it very simply, fab lab is a mini factory of sorts where anyone can work 
  
 ### precision cutter
 
-![fab lab](https://www.kemet.co.uk/images/metallography/micracut-151.jpg "precision cutter")
+![fab lab](http://www.oulu.fi/sites/default/files/fablab_cutter.jpg "precision cutter")
 
 A CNC Engraving machine is the art of cutting or carving grooves
 or characters into a surface. The more common forms are hand eng raving, mechanical engraving (pantographs, computer engravers, CNC engraving, etc.) and a variety of photographic and chemical etching processes.Rotary Engraving, or CNC Routing, is done with a rotating tool or cutter in a motorized spindle. The process is similar to routing and is used to produce cuts of specified widths and depths in a wide variety of materials.
 
 ### Drillers
+![fab lab](http://content.newsinc.com/jpg/1894/29604386/24926909.jpg?t=1440529140 "driller")
+
 In rock drilling, the hole is usually not made through a circular cutting motion, though the bit is usually rotated. Instead, the hole is usually made by hammering a drill bit into the hole with quickly repeated short movements. The hammering action can be pe rformed from outside of the hole (top-hammer drill) or within the hole (down-the-hole drill, DTH). Drills used for horizontal drill ing are called drifter drills.
 
 ### Laser cutter
