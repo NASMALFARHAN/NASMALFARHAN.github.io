@@ -60,6 +60,8 @@ To put it very simply, fab lab is a mini factory of sorts where anyone can work 
  
 ### precision cutter
 
+![fab lab](https://www.kemet.co.uk/images/metallography/micracut-151.jpg "precision cutter")
+
 A CNC Engraving machine is the art of cutting or carving grooves
 or characters into a surface. The more common forms are hand eng raving, mechanical engraving (pantographs, computer engravers, CNC engraving, etc.) and a variety of photographic and chemical etching processes.Rotary Engraving, or CNC Routing, is done with a rotating tool or cutter in a motorized spindle. The process is similar to routing and is used to produce cuts of specified widths and depths in a wide variety of materials.
 
@@ -131,6 +133,9 @@ We need to know some basic HTML coding to maintain a page.Following is the step 
  6. The coding page appears. Code it according to the need.For those who are new to coding.A model coding page named 'README.md' is available on 'CODE' page.This can ut ilised to learn coding.
  7. After coding click 'COMMIT CHANGES'.Check the page for the updates.Also visit w3schools.com to learn some basic coding. 
  ```
+ 
+ 
+ 
 ## SOFTWARE TOOLS FOR FABLAB
 
 ### EAGLE
