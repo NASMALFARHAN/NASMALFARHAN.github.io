@@ -192,7 +192,7 @@ Easy Cut Studio is the industry’s premiere sign making and vinyl cutting sof t
 
 
 **FOR MARKDOWN CHEATS**
-[**`here`**](https://docs.google.com/document/d/1b-YPkYcUt2vW6vKYC2uOcPnP9tg9tztMz-GHH8raJTU/edit)
+[**`here`**](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ### Support or Contact
 
