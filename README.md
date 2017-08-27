@@ -1,5 +1,7 @@
 # ABOUT ME
 
+![fab lab](IMG-20170723-WA0159.jpg "moulding machine")
+
 Myself Nasmal farhan P A. Iam currently pursuing my final year B.Tech in Mechanical Engineering from MES College of Engineering.
 
 I am a dedicated person with a family of five. I enjoy reading, and the knowledge and perspective that my reading gives me has strengthened my teaching skills and presentation abilities. I have been successful at raising a family, and I attribute this success to my ability to plan, schedule, and handle many different tasks at once. This flexibility will help me in the classroom, where there are many different personalities and learning styles
