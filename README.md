@@ -39,7 +39,7 @@ use this link to take MESCE Fab Lab:[**`here`**](https://docs.google.com/documen
 
 Recently, our college was selected among 20 others in kerala where a fabrication lab (FABLAB) was to be setup. It gives me great pleasure to document and share my FABLAB experiences with you using this platform.
 
-+ + ### DAY ONE (GLIMPSES OF REALISATION)
++ + ## DAY ONE (GLIMPSES OF REALISATION)
 
 Our trainer Mr.Jaseel was successful in explaining the main theme of the entire programme.He made as aware about the future scopes of FAB and was able to convince as how the same can influence the future world.
 
@@ -83,7 +83,74 @@ Injection molding machine molds can be fastened in either a horizo ntal or verti
 ### Mini furnaces
 
 
-Furnaces feature rugged ceramic tops and bottoms with durable alum inum alloy sides. As a result, they are 20 to 25 percent lighter t han comparable ceramic-shell furnaces and 40 to 45 percent lighter than aluminum-frame furnaces. This reduction in furnace weight is a particularly important consideration in hand pouring operations . Their removable front and back inspection and access panels make Mini-Melt™ Furnaces easier to maintain and cost less to repair th an shell furnaces and aluminum frame furnaces. These furnaces ha ve a strong, durable construction for long furnace life. They al so operate at frequencies from 3,000 to 10,000 hertz with maxim um power utilization
+Furnaces feature rugged ceramic tops and bottoms with durable alum inum alloy sides. As a result, they are 20 to 25 percent lighter t han comparable ceramic-shell furnaces and 40 to 45 percent lighter than aluminum-frame furnaces. This reduction in furnace weight is a particularly important consideration in hand pouring operations . Their removable front and back inspection and access panels make Mini-Melt™ Furnaces easier to maintain and cost less to repair th an shell furnaces and aluminum frame furnaces. These furnaces ha ve a strong, durable construction for long furnace life. They al so operate at frequencies from 3,000 to 10,000 hertz with maxim um power utilization 
+
++ + ## DAY TWO( DOCUMENTATION AND SOFTWARE BASICS)
+Came to know about some of the basic documentation requirements:
+
+   ```markdown
+   1. A self owned webpage/site
+   2. HTML coding
+   3. Tips for proper handling
+   ```
+Although my trade is Mechanical now I am to able to handle my own web page.Learned about softwares that is necessary for fablab act ivties such as:
+
+```markdown
+ 1. Eagle
+ 2. Cura
+ 3. Autocad
+ 4. Solidworks
+ 5. Rhinoceros
+ 6. Shopbot sofware
+ 7. Cutstudio(3D)
+ 8. Sketchup(2D)
+ ```
+### TUTORIAL FOR STARTING A WEB PAGE(Example:GITHUB)
+ ```markdown
+ 1. Go to GITHUB
+ 2. Sign up up by providing necessary details
+ 3. Then Sign in into the account
+ 4. Select 'START A PROJECT' to create new repository
+ 5. Give a suitable repository name
+ 6. Select 'CREATE REPOSITORY'
+ ```
+You have your Hithub page.Explore!!!!
+
+### HTML CODING
+We need to know some basic HTML coding to maintain a page.Following is the step to code the page in previously created account on GITHUB:
+```markdown
+1. Login into GITHUB account
+2. Select your ID on right bottom corner
+3. Now select 'CODE' on the menu
+4. Select your already created project, as mentioned in above section
+5. Click on the edit button on the panel on right side(PEN symbol)
+6. The coding page appears. Code it according to the need.
+       For those who are new to coding.A model coding page na
+       med 'README.md' is available on 'CODE' page.This can ut 
+       ilised to learn coding.
+7. After coding click 'COMMIT CHANGES'.Check the page for the updates.
+       Also visit w3schools.com to learn some basic coding.
+       ```
+## SOFTWARE TOOLS FOR FABLAB
+### EAGLE
+Eagle Software ascertains itself as a paramount institution in provid ing software products and solutions for Health Care, Micro-Finance, Insurance and Immigration. We develop mobile phone games, online lott ery applications and deliver value added services for mobile phone ga mes. We deliver end-to-end solutions for web and desktop applications based on Smart Card / RFID Solutionstechnology.
+**Download EAGLE**
+:[**`here`**](https://www.autodesk.com/products/eagle/free-download)
+
+### CURA
+Cura creates a seamless integration between hardware, software and mate rials for the best 3D printing experience around. Novices can start printing right away and experts are able to customize 200 settings to achieve the best results for their models Optimized profiles for Ultimaker materials Supported by a global network of Ultimaker certified service partners Print multiple objects at once with different settings for each object Cura supports STL, 3MF and OBJ file formats It’s open source and completely free Optimized for dual extrusion printing with Ultimaker 3 Download CURA
+
+### AUTOCAD
+AutoCAD is a commercial computer-aided design (CAD) and drafting software application. Developed and marketed by Autodesk,[1] AutoCAD was first rel eased in December 1982 as a desktop app running on microcomputers with in ternal graphics controllers.[2] Prior to the introduction of AutoCAD, most commercial CAD programs ran on mainframe computers or minicomputers, with each CAD operator (user) working at a separate graphics terminal.[3] Since 2010, AutoCAD was released as a mobile- and web app as well, marketed as AutoCAD 360. Download Autocad
+
+### SOLIDWORKS
+SOLIDWORKS solutions cover all aspects of your product development process with a seamless, integrated workflow—design, verification, sustainable des ign, communication and data management. The intuitive design interface and integrated software work together and give you the freedom to focus on inn ovation, thus giving you the possibility to span multiple disciplines with ease. Download SOLIDWORKS
+
+### RHINOCEROS
+Rhinoceros, also known as Rhino or Rhino3D, is a 3D CAD modeling software package that enables you to accurately model your designs ready for rende ring, animation, drafting, engineering, analysis, and manufacturing. Rhino is a free-form NURBS surface modeler. With Rhino, you can create, edit, an alyze, and translate NURBS curves, surfaces, and solids in Windows or Mac environments. There are no limitations on complexity, degree, or size of the model you design. Download RHINOCEROS
+
+### CUTSTUDIO
+Easy Cut Studio is the industry’s premiere sign making and vinyl cutting sof tware for Windows that allows you to cut any TrueType font, any SVG image a nd any design you want using an electronic cutting machine ( vinyl cutter a nd cutting plotter). Works with your installed TrueType and OpenType, and Di ngbat/Wingding fonts. This viny cutting software can import various file fo rmats but also provides a full set of drawing and editing tools to create yo ur own designs for cutting. Download CUTSTUDIO
 
 
 
