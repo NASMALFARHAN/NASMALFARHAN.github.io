@@ -57,9 +57,7 @@ To put it very simply, fab lab is a mini factory of sorts where anyone can work 
    8. Mini furnaces
    ```
    
-  ### Precision cutter
-
-
+ ### Precision cutter
 A CNC Engraving machine is the art of cutting or carving grooves
 or characters into a surface. The more common forms are hand eng raving, mechanical engraving (pantographs, computer engravers, CNC engraving, etc.) and a variety of photographic and chemical etching processes.Rotary Engraving, or CNC Routing, is done with a rotating tool or cutter in a motorized spindle. The process is similar to routing and is used to produce cuts of specified widths and depths in a wide variety of materials.
 
