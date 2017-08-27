@@ -1,6 +1,5 @@
 # ABOUT ME
 
-![fab lab](IMG-20170723-WA0159.jpg "moulding machine")
 
 Myself Nasmal farhan P A. Iam currently pursuing my final year B.Tech in Mechanical Engineering from MES College of Engineering.
 
