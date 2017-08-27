@@ -120,6 +120,7 @@ You have your Hithub page.Explore!!!!
 
 ### HTML CODING
 We need to know some basic HTML coding to maintain a page.Following is the step to code the page in previously created account on GITHUB:
+
 ```markdown
 
  1. Login into GITHUB account
@@ -128,6 +129,7 @@ We need to know some basic HTML coding to maintain a page.Following is the step 
  4. Select your already created project, as mentioned in above section
  5. Click on the edit button on the panel on right side(PEN symbol)
  6. The coding page appears. Code it according to the need.
+ ```
        For those who are new to coding.A model coding page na
        med 'README.md' is available on 'CODE' page.This can ut 
        ilised to learn coding.
