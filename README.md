@@ -205,6 +205,10 @@ Easy Cut Studio is the industry’s premiere sign making and vinyl cutting sof t
   ![fab](https://raw.githubusercontent.com/NASMALFARHAN/NASMALFARHAN.github.io/master/IMG_20170826_144128.jpg "lab")
 
 
+  ### Vynyl cutting:
+  
+   ![fab](https://raw.githubusercontent.com/NASMALFARHAN/NASMALFARHAN.github.io/master/20170826165421.jpg "lab")
+
 **FOR MARKDOWN CHEATS**
 [**`here`**](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
