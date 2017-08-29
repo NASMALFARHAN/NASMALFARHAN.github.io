@@ -196,6 +196,8 @@ Easy Cut Studio is the industry’s premiere sign making and vinyl cutting sof t
 ## MY WORKS IN FAB LAB
   ### 3D cutting:
   
+  ![fab](https://raw.githubusercontent.com/NASMALFARHAN/NASMALFARHAN.github.io/master/IMG_20170826_103402.jpg "lab")
+
 
 
 **FOR MARKDOWN CHEATS**
